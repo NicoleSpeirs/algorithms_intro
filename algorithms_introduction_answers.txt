@@ -1,0 +1,57 @@
+1. Using proper pseudo-code, describe the following primitive algorithms:
+    * Making coffee;
+
+FUNCTION makeCoffee
+
+IF NOT enough water in the coffee machine THEN
+    ADD water
+END IF
+    Turn the coffee machine on
+    Add coffee beans
+    Brew coffee
+
+END FUNCTION
+
+
+
+
+    * Washing dishes;
+
+FUNCTION doDishes
+
+WHILE dirty dishes in sink >= 1
+    Take dish from sink
+    Soap dish
+    Rinse dish
+    Put dish on drier rack
+ENDWHILE
+
+END FUNCTION
+
+  * Getting Kitten ready for adoption
+
+FUNCTION readyForAdoption
+
+IF kitten weight >= 5 lbs && kitten age >= 2 months
+    Call spayOrNeuter surgery
+    Add to adoptable list
+ELSE
+    RETURN kitten is not ready
+END IF
+
+END FUNCTION
+
+
+
+2. As with the knot algorithm, there may be more than one way to solve the problem. It is essential to try to pick the best algorithm for a situation. Name three companies who created an algorithm that made them successful, e.g., Google's search algorithm. It doesn't need to be a tech example (such as a recipe or manufacturing a product). Google's algorithm produces more relevant results than other search engines; what about each of your cases make them stand out?
+
+a. Starbucks - created algorithm to have all their stores have layout with a purpose. When a Starbucks barista makes coffee everything is within reach to minimize moves and steps they have to make to save time.
+b. Netflix - make algorithm that give users similar content suggestions based on what the user have watched before.
+c. Google assistant or amazon eco dot- the voice activated assitants created algorithm that allow the user to control their electronic devices at home such as Roomba vacuums or TV with a simple voice command.
+
+
+3. Hypothesize about what constitutes an efficient algorithm versus an inefficient algorithm.
+
+An efficient algorithm has clear and simple steps that minimize errors and maximize speed. Inefficient algorithm has steps that are not clear and  unnecessary.
+
+
